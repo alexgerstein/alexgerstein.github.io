@@ -2,7 +2,7 @@
 <html>
 <head>
     
-    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
     <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -29,19 +29,19 @@
     <meta property="og:description" content="">
 
     <link rel="shortcut icon" href="favicon.ico">
-    <link rel="stylesheet" href="assets/js/styles/obsidian.css?v=0ca5ff5b96">
+    <link rel="stylesheet" href="assets/js/styles/obsidian.css?v=1343ba3787">
     <link rel="stylesheet" href="http://brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
     
-    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/main.css?v=0ca5ff5b96" />
-    <link rel="stylesheet" type="text/css" media="print" href="assets/css/print.css?v=0ca5ff5b96" />
+    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/main.css?v=1343ba3787" />
+    <link rel="stylesheet" type="text/css" media="print" href="assets/css/print.css?v=1343ba3787" />
     <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
     
     <meta name="generator" content="Ghost 0.4" />
 <link rel="alternate" type="application/rss+xml" title="Alex Gerstein" href="rss/index.html">
 <link rel="canonical" href="http://alexgerstein.com/films/" />
 </head>
-<body class="post-template tag-film tag-about">
+<body class="post-template">
 
     <aside>
   <div class="drawer-container">
@@ -106,7 +106,7 @@
 
 <main class="content" role="main">
 
-    <article class="post tag-film tag-about">
+    <article class="post">
         
         
         
@@ -119,8 +119,8 @@
                 <div class="cf post-meta-text">
                     <div class="author-image" style="background-image: url(content/images/2014/Jun/Widened-Kayak.png)">Blog Logo</div>
                     <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">Alex Gerstein</h4> on
-                    <time datetime="2014-06-05">05 Jun 2014</time>
-                    , tagged on <a href="tag/film/index.html">Film</a>, <a href="tag/about/index.html">About</a>
+                    <time datetime="2014-07-10">10 Jul 2014</time>
+                    
                 </div>
             </div>
         </div>
@@ -136,13 +136,13 @@
                     <span class="post-reading-time"></span> read
                 </div>
                 <a name="topofpage"></a>
-                <p>My greatest passion aside from <a href="projects" title="Projects">technology</a> is filmmaking. The interest largely grew from my early fascination with Pixar and all of the technical aspects behind the work they do. </p>
+                <p>My greatest passion aside from <a href="projects" title="Projects">technology</a> is filmmaking. The interest largely grew from my early fascination with Pixar and all of the technical aspects behind the work they do.</p>
 
 <p>After a few courses in 3D animation, I wanted to learn as much as I could about film in general. I now have taken numerous courses in film and, in addition to my <a href="http://127.0.0.1:2368/alexgersteinresume.pdf" title="Résumé">Computer Science major</a>, am working towards a Film and Media Studies minor. Here are a couple of the student films I've created:</p>
 
 <h3 id="whyijoinedthedartmouth">Why I Joined "The Dartmouth"</h3>
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/iG9o9e0cHXs" frameborder="0" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/iG9o9e0cHXs" frameborder="0" allowfullscreen></iframe>
 
 <p>While spending my sophomore summer on campus--as sophomores are required (highly encouraged) to do at Dartmouth--I put together a recruitment video for The Dartmouth, our daily newspaper. This is unofficially the first video of the revamped <em>The Dartmouth</em> Multimedia staff. Since putting together a team of directors and editors, we've produced some great work that you can check out on <a href="http://www.youtube.com/user/TheDartmouthVideo">our YouTube Channel</a>.</p>
 
@@ -198,7 +198,7 @@
                         <h4>Alex Gerstein</h4>
                         <p class="bio">Student developer and filmmaker, studying CS at Dartmouth College in Hanover, NH</p>
                         <hr>
-                        <p class="published">Published <time datetime="2014-06-05">05 Jun 2014</time></p>
+                        <p class="published">Published <time datetime="2014-07-10">10 Jul 2014</time></p>
                     </section>
                 </div>
                 
@@ -232,14 +232,14 @@
 
 
         
-        <script src="public/jquery.js?v=0ca5ff5b96"></script>
+        <script src="public/jquery.js?v=1343ba3787"></script>
     </div>
 
     
-    <script type="text/javascript" src="assets/js/jquery.fitvids.js?v=0ca5ff5b96"></script>
-    <script type="text/javascript" src="assets/js/index.js?v=0ca5ff5b96"></script>
-    <script src="assets/js/readingTime.min.js?v=0ca5ff5b96"></script>
-    <script src="assets/js/highlight.pack.js?v=0ca5ff5b96"></script>
+    <script type="text/javascript" src="assets/js/jquery.fitvids.js?v=1343ba3787"></script>
+    <script type="text/javascript" src="assets/js/index.js?v=1343ba3787"></script>
+    <script src="assets/js/readingTime.min.js?v=1343ba3787"></script>
+    <script src="assets/js/highlight.pack.js?v=1343ba3787"></script>
     <script>index.init();</script>
 
     <script>
