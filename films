@@ -41,7 +41,7 @@
 <link rel="alternate" type="application/rss+xml" title="Alex Gerstein" href="rss/index.html">
 <link rel="canonical" href="http://alexgerstein.com/films/" />
 </head>
-<body class="post-template tag-film tag-about page">
+<body class="post-template tag-film tag-about">
 
     <aside>
   <div class="drawer-container">
@@ -106,13 +106,13 @@
 
 <main class="content" role="main">
 
-    <article class="post tag-film tag-about page">
-
+    <article class="post tag-film tag-about">
         
         
-
         
-
+        
+        
+        
         <div class="noarticleimage">
             <div class="post-meta">
                 <h1 class="post-title">Films I've Directed</h1>
@@ -126,11 +126,15 @@
         </div>
         <br>
         <br>
+        <br>
+        
+        
         
 
-
-
             <section class="post-content">
+                <div class="post-reading">
+                    <span class="post-reading-time"></span> read
+                </div>
                 <a name="topofpage"></a>
                 <p>My greatest passion aside from <a href="projects" title="Projects">technology</a> is filmmaking. The interest largely grew from my early fascination with Pixar and all of the technical aspects behind the work they do. </p>
 
@@ -185,7 +189,7 @@
                 </section>
 
             </footer>
-
+            
             <div class="bottom-teaser cf">
                 <div class="isLeft">
                     <h5 class="index-headline featured"><span>Written by</span></h5>
@@ -205,7 +209,7 @@
                         <a class="subscribe" href="http://alexgerstein.com/rss/"><span class="tooltip">You should subscribe to my RSS feed.</span></a>
                         <div class="inner">
                              <section class="copyright">All content copyright <a href="http://alexgerstein.com/">Alex Gerstein</a> &copy; 2014<br>All rights reserved.</section>
-
+                             
                         </div>
                     </footer>
                 </div>
@@ -222,7 +226,7 @@
     <div class="inner">
         <h1 class="blog-title">Alex Gerstein</h1>
         <h2 class="blog-description">Digressions on technology and (occasionally) film</h2>
-        <a href="index.html" class="btn">Back to Homepage</a>
+        <a href="index.html" class="btn">Back to Overview</a>
     </div>
 </div>
 

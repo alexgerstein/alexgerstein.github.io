@@ -41,7 +41,7 @@
 <link rel="alternate" type="application/rss+xml" title="Alex Gerstein" href="rss/index.html">
 <link rel="canonical" href="http://alexgerstein.com/about/" />
 </head>
-<body class="post-template page">
+<body class="post-template">
 
     <aside>
   <div class="drawer-container">
@@ -106,13 +106,13 @@
 
 <main class="content" role="main">
 
-    <article class="post featured page">
-
+    <article class="post featured">
         
         
-
         
-
+        
+        
+        
         <div class="noarticleimage">
             <div class="post-meta">
                 <h1 class="post-title">About Me</h1>
@@ -126,11 +126,15 @@
         </div>
         <br>
         <br>
+        <br>
+        
+        
         
 
-
-
             <section class="post-content">
+                <div class="post-reading">
+                    <span class="post-reading-time"></span> read
+                </div>
                 <a name="topofpage"></a>
                 <p>I'm currently a Computer Science major entering my senior year at <a href="http://dartmouth.edu" title="Education">Dartmouth College</a> in Hanover, NH. My interests in tech have led me to explore the industry beyond the classroom.</p>
 
@@ -138,7 +142,7 @@
 
 <p>Get to know me informally on <a href="https://twitter.com/alexgerstein" title="Twitter">Twitter</a> or formally by taking a look at my <a href="alexgerstein-resume.pdf" title="Résumé">résumé</a>.</p>
 
-<p>If you want to speak directly, send me an email at <a href="&#x6d;a&#105;&#x6c;&#x74;&#111;:&#x61;&#x6c;e&#x78;&#64;&#103;&#x65;rs&#116;&#101;&#x2e;&#x69;&#x6e;">&#x61;&#x6c;e&#x78;&#64;&#103;&#x65;rs&#116;&#101;&#x2e;&#x69;&#x6e;</a>.</p>
+<p>If you want to speak directly, send me an email at <a href="&#109;&#97;&#105;&#108;&#x74;&#x6f;:&#x61;l&#101;&#120;&#64;&#x67;&#101;&#114;&#115;&#116;&#101;&#x2e;&#x69;n">&#x61;l&#101;&#120;&#64;&#x67;&#101;&#114;&#115;&#116;&#101;&#x2e;&#x69;n</a>.</p>
             </section>
 
             <footer class="post-footer">
@@ -159,7 +163,7 @@
                 </section>
 
             </footer>
-
+            
             <div class="bottom-teaser cf">
                 <div class="isLeft">
                     <h5 class="index-headline featured"><span>Written by</span></h5>
@@ -179,7 +183,7 @@
                         <a class="subscribe" href="http://alexgerstein.com/rss/"><span class="tooltip">You should subscribe to my RSS feed.</span></a>
                         <div class="inner">
                              <section class="copyright">All content copyright <a href="http://alexgerstein.com/">Alex Gerstein</a> &copy; 2014<br>All rights reserved.</section>
-
+                             
                         </div>
                     </footer>
                 </div>
@@ -196,7 +200,7 @@
     <div class="inner">
         <h1 class="blog-title">Alex Gerstein</h1>
         <h2 class="blog-description">Digressions on technology and (occasionally) film</h2>
-        <a href="index.html" class="btn">Back to Homepage</a>
+        <a href="index.html" class="btn">Back to Overview</a>
     </div>
 </div>
 
