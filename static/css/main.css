@@ -33,15 +33,6 @@ video {
   margin: 25% auto 0;
 }
 
-.name {
-  color: white;
-  text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;
-}
-
 .links {
   list-style: none;
   display: flex;
