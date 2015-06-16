@@ -26,6 +26,14 @@ video {
   filter: blur(2px) opacity(0.6);
 }
 
+.name {
+  text-shadow:
+   -1px -1px 0 #aaa,
+    1px -1px 0 #aaa,
+    -1px 1px 0 #aaa,
+     1px 1px 0 #aaa;
+}
+
 .content {
   max-width: 300px;
   padding: 0 20px;
