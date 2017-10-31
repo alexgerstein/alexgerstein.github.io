@@ -6,4 +6,6 @@ draft: true
 
 # False Metrics of Progress
 
+A punny startup name does not justify a startup.
+
 Name Darwin makes me want to get a dog more because the idea seems real-er. Name of a product makes idea seem real so it drives us to create. 
