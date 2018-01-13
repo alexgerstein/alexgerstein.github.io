@@ -7,20 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 31 Oct 2017 00:07:27 -0700</lastBuildDate>
-    
+
 	<atom:link href="http://www.alexgerstein.com/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Our Greatest Weakness</title>
-      <link>http://www.alexgerstein.com/blog/our-greatest-weakness/</link>
-      <pubDate>Tue, 31 Oct 2017 00:07:27 -0700</pubDate>
-      
-      <guid>http://www.alexgerstein.com/blog/our-greatest-weakness/</guid>
-      <description>The three great virtues of a programmer: laziness, impatience, and hubris.
-&amp;ndash; Larry Wall, creator of Perl
- As a software engineer, you&amp;rsquo;re trained to optimize for efficiency. Code shouldn&amp;rsquo;t take up too much space, and it shouldn&amp;rsquo;t take too long to run. You recognize that every solution makes a trade-off between speed and memory. The actual output of the code itself must find a balance between how quickly it can be released to users and how much technical debt it leaves behind.</description>
-    </item>
-    
+
+
   </channel>
 </rss>
