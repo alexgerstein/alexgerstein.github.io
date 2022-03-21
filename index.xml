@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alex Gerstein</title>
+    <title>About on Alex Gerstein</title>
     <link>http://www.alexgerstein.com/</link>
-    <description>Recent content on Alex Gerstein</description>
+    <description>Recent content in About on Alex Gerstein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 31 Oct 2017 00:25:33 -0700</lastBuildDate>
     
 	<atom:link href="http://www.alexgerstein.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>http://www.alexgerstein.com/about/</link>
-      <pubDate>Tue, 31 Oct 2017 00:25:33 -0700</pubDate>
-      
-      <guid>http://www.alexgerstein.com/about/</guid>
-      <description>My name is Alex Gerstein. I&amp;rsquo;m a software engineer based in San Francisco.
-As our lives migrate to the web, we collect excuses for needing our devices. I try to disqualify some through automation. Today, this means simplifying payroll at Gusto.
-I also enjoy film, golf and fiction.
-These thoughts are my own.</description>
-    </item>
     
   </channel>
 </rss>
